@@ -6,7 +6,7 @@ Sou o Antonio Jorge, sou um programador front-end, aprimorando minhas habilidade
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" atl="hmtl-logo">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"> 
   
-  e começando a aprender sobre <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript"> e <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="logo-react"> em meus projetos. 
+  aprendendo sobre <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript"> e <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="logo-react"> em meus projetos. 
 <br>
 <br>
 ![AJ Stats](https://github-readme-stats.vercel.app/api?username=Aj-Dionisio&show_icons=true&theme=transparent)
