@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Sou o Antonio Jorge, sou um programador front-end, aprimorando meus conhceimentos:
+Sou o Antonio Jorge, sou um programador front-end, aprimorando meus conhceimentos em:
 
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" atl="hmtl-logo">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"> 
