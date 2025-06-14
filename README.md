@@ -1,4 +1,4 @@
-# Olá, eu sou o Antonio Girotto 👋
+# Olá, sou o Antonio Girotto 👋
 
 Atualmente em transição para a programação front-end. Sou formado em engenharia civil e minha trajetória me proporcionou habilidades essenciais que aplico diretamente no desenvolvimento de códigos:
 
@@ -11,11 +11,12 @@ Minhas Tecnologias 🛠️
 Desde que iniciei meus estudos em programação, venho construindo projetos utilizando:<br>
 
 <ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
-<li>Git e GitHub</li>
+<li><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" atl="hmtl-logo"></li>
+<li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"> </li>
+<li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript"></li>
 </ul>
+
+e  estou aprendendo <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="logo-react">
 
 Meu objetivo é sempre unir estética, usabilidade e performance em cada projeto que desenvolvo. A lógica de construção e as soluções eficientes que aprendi na engenharia se refletem diretamente na qualidade do meu código.
 
