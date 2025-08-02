@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Antonio Girotto
 
 🎯 Engenheiro Civil em transição para Desenvolvedor Front-End  
-💻 Apaixonado por tecnologia, interfaces bem feitas e código limpo  
+💻 Apaixonado por tecnologia
 🚀 Buscando minha primeira oportunidade na área de programação
 
 ---
