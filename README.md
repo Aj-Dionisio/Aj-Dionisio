@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou o Antonio Girotto
+# 👋 Olá, eu sou o Antonio Jorge
 
 🎯 Engenheiro Civil em transição para Desenvolvedor Front-End  
-💻 Apaixonado por tecnologia
+💻 Apaixonado por tecnologia <br>
 🚀 Buscando minha primeira oportunidade na área de programação
 
 ---
