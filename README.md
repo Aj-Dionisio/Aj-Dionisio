@@ -1,73 +1,86 @@
-# 👋 Olá, eu sou o Antonio Jorge
+# Olá, eu sou o Antonio Jorge 👋
 
-🎯 Engenheiro Civil em transição para Desenvolvedor Front-End  
-💻 Apaixonado por tecnologia <br>
-🚀 Buscando minha primeira oportunidade na área de programação
+🎯 Desenvolvedor Front-End | React | JavaScript <br>
+🎓 Estudante de Ciência da Computação <br>
+🏗️ Engenheiro Civil por formação <br>
+💻 Apaixonado por tecnologia e desenvolvimento de software <br>
+🚀 Em busca da minha primeira oportunidade como Desenvolvedor Front-End
 
 ---
 
 ## 🧠 Sobre Mim
 
-Engenheiro civil em transição para o front-end, aplicando minha experiência técnica e foco em resolução de problemas no desenvolvimento de interfaces web.
+Sou Desenvolvedor Front-End com experiência prática na criação de aplicações web utilizando React, JavaScript, HTML e CSS.
 
-Sou formado em Engenharia Civil e me indentifiquei com a  programação front-end porque é uma área que une lógica, criatividade e tecnologia — tudo o que sempre me motivou. Trago comigo habilidades como:
+Minha trajetória profissional começou na Engenharia Civil, área em que desenvolvi habilidades como organização, análise de dados, resolução de problemas e trabalho em equipe. Hoje aplico essas competências no desenvolvimento de interfaces modernas, responsivas e focadas na experiência do usuário.
 
-- Pensamento analítico  
-- Resolução de problemas complexos  
-- Atenção aos detalhes  
-- Foco em resultados
+Atualmente curso Ciência da Computação e sigo aprofundando meus conhecimentos em desenvolvimento web, boas práticas de programação e arquitetura de software.
 
-Essas qualidades, desenvolvidas ao longo da minha trajetória, agora são aplicadas no desenvolvimento de interfaces funcionais, responsivas e com boa experiência para o usuário.
+Tenho experiência prática com:
 
-
-Sou uma pessoa dedicada e busco sempre aprender algo novo como parte do meu dia a dia.<br> 
-A tecnologia sempre foi uma paixão e estou determinado a construir uma carreira sólida como desenvolvedor front-end, contribuindo para projetos inovadores e diversificados.
-
-Objetivo Atual 🎯<br>
-Estou em busca da minha primeira oportunidade na área, onde eu possa integrar minha experiência prévia com minha nova formação, agregando meu potencial às equipes e aos produtos que fizerem parte da minha jornada.
-
-Vamos nos conectar e explorar novas oportunidades juntos? 🚀
-
-[![LinkedIn](https://img.shields.io/badge/-Antonio%20Girotto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-girotto/)](https://www.linkedin.com/in/antonio-girotto/)
-
+* React
+* JavaScript (ES6+)
+* HTML5 e CSS3
+* React Router
+* Consumo de APIs REST
+* Axios
+* Git e GitHub
+* Vite
+* Responsividade e Mobile First
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🚀 Projetos em Destaque
 
-Atualmente trabalho e estudo com:<br>
+### 📊 Build Track
 
-<ul>
-<li><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" atl="hmtl-logo"></li>
-<li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"> </li>
-<li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript"></li>
-</ul>
+Aplicação web de gestão e produtividade desenvolvida com React.
 
-e  estou aprendendo <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="logo-react">
+**Principais recursos:**
 
-Meu objetivo é sempre unir estética, usabilidade e performance em cada projeto que desenvolvo. A lógica de construção e as soluções eficientes que aprendi na engenharia se refletem diretamente na qualidade do meu código.
+* Componentização e reutilização de componentes
+* Dashboard interativo com gráficos utilizando Recharts
+* Integração com API REST utilizando Axios
+* Navegação entre páginas com React Router
+* Interface responsiva seguindo abordagem Mobile First
+* Deploy realizado com Vercel
 
+### 💱 Conversor de Moedas
 
----
+Aplicação desenvolvida com HTML, CSS e JavaScript para conversão de moedas, utilizando manipulação do DOM e atualização dinâmica da interface.
 
-## 💡 O que me motiva
+### 🎮 Jokênpo
 
-- Aprender algo novo todos os dias 📚  
-- Criar soluções que gerem impacto real  
-- Trabalhar com pessoas que compartilham a paixão por tecnologia  
-- Crescer profissionalmente em um ambiente colaborativo  
-
----
-
-## 🤝 Vamos nos conectar?
-
-![AJ Stats](https://github-readme-stats.vercel.app/api?username=Aj-Dionisio&show_icons=true&theme=transparent)
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-Dionisio&size_weight=0.5&count_weight=0.5)
+Projeto focado em lógica de programação, JavaScript e manipulação da interface do usuário.
 
 ---
 
-Seja bem-vindo(a) ao meu perfil! Sinta-se à vontade para se conectar ou trocar ideias.
+## 🎯 Objetivo Profissional
 
+Busco minha primeira oportunidade como Desenvolvedor Front-End para aplicar os conhecimentos que venho desenvolvendo em projetos reais, contribuir com equipes de tecnologia e continuar evoluindo profissionalmente.
 
+Acredito que a combinação entre minha experiência anterior, formação acadêmica e dedicação ao aprendizado contínuo me permite agregar valor desde o início, sempre com foco em evolução constante e entrega de resultados.
+
+---
+
+## 📚 Atualmente Estudando
+
+* Ciência da Computação
+* React
+* JavaScript Avançado
+* Estruturas de Dados
+* Programação Orientada a Objetos
+* Engenharia de Software
+* Desenvolvimento Full Stack
+
+---
+
+## 🌐 Conecte-se Comigo
+
+📧 [jorge_11000@hotmail.com](mailto:jorge_11000@hotmail.com)
+💼 LinkedIn: linkedin.com/in/antonio-girotto
+🐙 GitHub: github.com/Aj-Dionisio
+
+---
+
+⭐ Sempre aprendendo, construindo projetos e buscando evoluir como desenvolvedor.
