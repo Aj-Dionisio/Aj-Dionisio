@@ -2,7 +2,6 @@
 
 🎯 Desenvolvedor Front-End | React | JavaScript <br>
 🎓 Estudante de Ciência da Computação <br>
-🏗️ Engenheiro Civil por formação <br>
 💻 Apaixonado por tecnologia e desenvolvimento de software <br>
 🚀 Em busca da minha primeira oportunidade como Desenvolvedor Front-End
 
